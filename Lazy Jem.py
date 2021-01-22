@@ -15,6 +15,7 @@ he takes M minutes in solving a problem, after each break he will take twice
 more time in solving a problem, i.e. 2 * M minutes per problem after the first
 break.
 
+
 Jem will start working soon and ask you to help him calculate how much time it
 will take until he finish the last problem!
 
