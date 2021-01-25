@@ -7,6 +7,7 @@ any of the problems. Fortunately he got a plan as always.
 The first step will be buying a pack of Red Bull and then to work as hard as he
 can. Here is how he is going to spend the remaining time:
 
+
 Jem will not take a break until he finishes at least half of the remaining
 problems. Formally, if N is even then he will take he first break after
 finishing N / 2 problems. If N is odd then the break will be after he done
